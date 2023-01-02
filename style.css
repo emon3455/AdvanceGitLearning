@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: yellow;
+    padding-top: 10vh;
+    text-align: center;
+    font-size: 1.3rem;
+    min-height: 30vh;
+}

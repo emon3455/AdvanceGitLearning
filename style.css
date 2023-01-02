@@ -10,3 +10,7 @@ header{
     font-size: 1.3rem;
     min-height: 30vh;
 }
+
+.image{
+    max-width: 400px;
+}

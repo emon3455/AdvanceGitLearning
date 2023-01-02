@@ -5,12 +5,27 @@
 
 header{
     background-color: yellow;
-    padding-top: 10vh;
+    padding-top: 5vh;
     text-align: center;
     font-size: 1.3rem;
-    min-height: 30vh;
+    min-height: 20vh;
 }
 
 .image{
     max-width: 400px;
+}
+
+.blog{
+    background-color: aqua;
+    text-align: justify;
+    max-height: 20vh;
+}
+
+.blog h2{
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+.blog p{
+    font-size: 1.2rem;
 }
